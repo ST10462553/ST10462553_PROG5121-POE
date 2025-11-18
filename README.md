@@ -1,8 +1,4 @@
 # ST10462553_PROG5121-POE
-Here is a **clean, professional, submission-ready GitHub README** for your *QuickChat – PROG5121 POE (Part 1–3)* project.
-It follows academic expectations, includes all required sections, references AI + W3Schools, leaves a placeholder for screenshots, and meets GitHub best practices.
-
-You can **copy and paste directly into your README.md**.
 
 ---
 
