@@ -143,18 +143,32 @@ All tests run automatically on every push through:
 
 # 📸 **Screenshots (Program Output)**
 
-*(Add your images here)*
-
-Example:
-
-```
-<img width="470" height="230" alt="quickchat full data report" src="https://github.com/user-attachments/assets/f374db43-0797-404f-aa41-46baead12e8a" />
 
 
 
 ```
 
----
+
+
+
+
+```
+
+---<img width="197" height="91" alt="text summary" src="https://github.com/user-attachments/assets/5b9fcc6d-b2b2-4398-a6d3-b75c73357c1d" />
+<img width="217" height="89" alt="id finder(error)" src="https://github.com/user-attachments/assets/953e9553-8bef-450d-88fa-d6b350feeb76" />
+
+
+<img width="199" height="92" alt="sender name prompt" src="https://github.com/user-attachments/assets/79bc4eb0-7317-433d-aade-1583ab5eb8f6" />
+
+<img width="370" height="91" alt="quickchat menu" src="https://github.com/user-attachments/assets/5a54a5f1-628a-4e53-bcb4-02af07013a05" />
+
+<img width="203" height="137" alt="messaging works!" src="https://github.com/user-attachments/assets/f01197e2-772d-4e7d-8db8-d86d332f6b34" />
+
+<img width="257" height="95" alt="message store function" src="https://github.com/user-attachments/assets/c9830bd3-cfe9-4157-9644-4f65be1395ef" />
+
+<img width="273" height="119" alt="messages history" src="https://github.com/user-attachments/assets/531e4a32-2f17-45ec-9764-465ad1fec9de" />
+
+
 
 # 📦 **JSON File Outputs**
 
