@@ -168,6 +168,7 @@ All tests run automatically on every push through:
 
 <img width="273" height="119" alt="messages history" src="https://github.com/user-attachments/assets/531e4a32-2f17-45ec-9764-465ad1fec9de" />
 
+<img width="178" height="75" alt="Screenshot 2025-10-13 194736" src="https://github.com/user-attachments/assets/b7f38c82-438c-4fe7-b32e-9d59076713c3" />
 
 
 # 📦 **JSON File Outputs**
