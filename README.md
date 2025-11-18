@@ -148,9 +148,10 @@ All tests run automatically on every push through:
 Example:
 
 ```
-![Registration Screenshot](images/registration.png)
-![Messaging Screenshot](images/messaging.png)
-![Tasks Screenshot](images/tasks.png)
+<img width="470" height="230" alt="quickchat full data report" src="https://github.com/user-attachments/assets/f374db43-0797-404f-aa41-46baead12e8a" />
+<img width="194" height="92" alt="login user" src="https://github.com/user-attachments/assets/613e6d56-7e0d-4f1b-a044-4bd93827ad83" />
+
+
 ```
 
 ---
